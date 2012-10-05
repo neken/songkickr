@@ -26,3 +26,5 @@ lib/songkickr/*.rbc
 test/*.rbc
 test/songkickr/*.rbc
 rakefile.compiled.rbc
+
+/.rvmrc
